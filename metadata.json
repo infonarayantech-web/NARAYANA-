@@ -1,0 +1,6 @@
+{
+  "name": "NARAYANTECH - Doorstep Device Repair",
+  "description": "Fast, transparent doorstep smartphone, iPhone, and gadget repair within 30-60 minutes. Certified technicians, OEM genuine parts, and up to 1-year warranty.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
